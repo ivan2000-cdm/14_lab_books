@@ -1,4 +1,4 @@
-# test_git
+# book_catalog
 
 ## Project setup
 ```

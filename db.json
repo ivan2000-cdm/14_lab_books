@@ -1,0 +1,243 @@
+{
+  // "books": [
+  //   {
+  //     "title": "Книга 1",
+  //     "author": "Автор 1",
+  //     "release_date": "Дата публикации на сайте",
+  //     "created": "Дата написания",
+  //     "discription": "Текст описания",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Новинка",
+  //       "Классика",
+  //       "Фантастика"
+  //     ],
+  //     "id": 1
+  //   },
+  //   {
+  //     "title": "Книга 2",
+  //     "author": "Автор 2",
+  //     "release_date": "Дата публикации на сайте",
+  //     "created": "Дата написания",
+  //     "discription": "Текст описания",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Новинка",
+  //       "Классика",
+  //       "Фантастика"
+  //     ],
+  //     "id": 2
+  //   },
+  //   {
+  //     "title": "Книга 3",
+  //     "author": "Автор 3",
+  //     "release_date": "Дата публикации на сайте",
+  //     "created": "Дата написания",
+  //     "discription": "Текст описания",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Новинка",
+  //       "Классика",
+  //       "Фантастика"
+  //     ],
+  //     "id": 3
+  //   },
+  //   {
+  //     "title": "Книга 4",
+  //     "author": "Автор 4",
+  //     "release_date": "Дата публикации на сайте",
+  //     "created": "Дата написания",
+  //     "discription": "Текст описания",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Новинка",
+  //       "Классика",
+  //       "Фантастика"
+  //     ],
+  //     "id": 4
+  //   },
+  //   {
+  //     "title": "Книга 5",
+  //     "author": "Автор 5",
+  //     "release_date": "Дата публикации на сайте",
+  //     "created": "Дата написания",
+  //     "discription": "Текст описания",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Новинка",
+  //       "Классика",
+  //       "Фантастика"
+  //     ],
+  //     "id": 5
+  //   },
+  //   {
+  //     "title": "Книга 6",
+  //     "author": "Автор 6",
+  //     "release_date": "Дата публикации на сайте",
+  //     "created": "Дата написания",
+  //     "discription": "Текст описания",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Новинка",
+  //       "Классика",
+  //       "Фантастика"
+  //     ],
+  //     "id": 6
+  //   },
+  //   {
+  //     "title": "Книга 7",
+  //     "author": "Автор 7",
+  //     "release_date": "Дата публикации на сайте",
+  //     "created": "Дата написания",
+  //     "discription": "Текст описания",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Новинка",
+  //       "Классика",
+  //       "Фантастика"
+  //     ],
+  //     "id": 7
+  //   },
+  //   {
+  //     "title": "Книга 8",
+  //     "author": "Автор 8",
+  //     "release_date": "Дата публикации на сайте",
+  //     "created": "Дата написания",
+  //     "discription": "Текст описания",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Новинка",
+  //       "Классика",
+  //       "Фантастика"
+  //     ],
+  //     "id": 8
+  //   },
+  //   {
+  //     "title": "Книга 9",
+  //     "author": "Автор 9",
+  //     "release_date": "Дата публикации на сайте",
+  //     "created": "Дата написания",
+  //     "discription": "Текст описания",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Новинка",
+  //       "Классика",
+  //       "Фантастика"
+  //     ],
+  //     "id": 9
+  //   },
+  //   {
+  //     "title": "Книга 10",
+  //     "author": "Автор 10",
+  //     "release_date": "Дата публикации на сайте",
+  //     "created": "Дата написания",
+  //     "discription": "Текст описания",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Новинка",
+  //       "Классика",
+  //       "Фантастика"
+  //     ],
+  //     "id": 10
+  //   },
+  //   {
+  //     "title": "azsdfg",
+  //     "author": "345",
+  //     "release_date": 1582622184896,
+  //     "created": "345",
+  //     "discription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit porro totam, nulla, voluptate placeat neque maxime error amet sint iusto doloribus! Doloribus placeat est aut eum consequuntur, vel praesentium saepe.",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Фантастика",
+  //       "ljg122",
+  //       "Доп_1"
+  //     ],
+  //     "id": 11
+  //   },
+  //   {
+  //     "title": "Пупкина Залупкина",
+  //     "author": "Пушкин Калатушкин",
+  //     "release_date": 1583138971843,
+  //     "created": "1997",
+  //     "discription": "ирпкапкр",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Классика",
+  //       "Доппнпвавждалт",
+  //       "Доп_1",
+  //       "Доп_3"
+  //     ],
+  //     "id": 12
+  //   },
+  //   {
+  //     "title": "Герой нашего времени",
+  //     "author": "Лермонтов",
+  //     "release_date": 1583221934719,
+  //     "created": "1873",
+  //     "discription": "Тек",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Классика",
+  //       "Новая категория",
+  //       "Доп_1"
+  //     ],
+  //     "id": 13
+  //   },
+  //   {
+  //     "title": "123",
+  //     "author": "123",
+  //     "release_date": 1588167408638,
+  //     "created": "12323",
+  //     "discription": "123",
+  //     "image": "../img/geroy-nashego-vremeni.jpg",
+  //     "categor": [
+  //       "Фантастика"
+  //     ],
+  //     "id": 14
+  //   }
+  // ],
+  // "book_cat_main": [
+  //   {
+  //     "categor": "Классика",
+  //     "id": 1
+  //   },
+  //   {
+  //     "categor": "Фантастика",
+  //     "id": 2
+  //   }
+  // ],
+  // "book_cat_additionally": [
+  //   {
+  //     "categor": "Доп_1",
+  //     "id": 1
+  //   },
+  //   {
+  //     "categor": "Доп_2",
+  //     "id": 2
+  //   },
+  //   {
+  //     "categor": "Доп_3",
+  //     "id": 3
+  //   },
+  //   {
+  //     "categor": "Доп_4",
+  //     "id": 4
+  //   },
+  //   {
+  //     "categor": "ljg122",
+  //     "id": 5
+  //   },
+  //   {
+  //     "categor": "jjjjjjj",
+  //     "id": 6
+  //   },
+  //   {
+  //     "categor": "Доппнпвавждалт",
+  //     "id": 7
+  //   },
+  //   {
+  //     "categor": "Новая категория",
+  //     "id": 8
+  //   }
+  // ]
+}
