@@ -1,6 +1,6 @@
 <template>
 	<body data-spy="scroll" data-target="#navbarCodeply" data-offset="70">
-		<!-- <div class="fixed-top navbar-expand-lg p-0 nav-fill">
+		<div class="fixed-top navbar-expand-lg p-0 nav-fill">
 			<h3 class="h2Tittle m-0">
 				Главная
 				<hr class="m-0">
@@ -14,7 +14,7 @@
 				</nav>
 			</div>
 			</div>
-		</div> -->
+		</div>
 		<div class="main">
 			<!-- <h4 id="newBooks">Новинки</h4>
 			<div class="row mar">

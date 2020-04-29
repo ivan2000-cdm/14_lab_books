@@ -1,6 +1,6 @@
-<template>
+﻿<template>
   <div class="container p-0" style="background-color: #e3f2fd;">
-    <!-- <b-navbar  
+     <b-navbar  
       class="fixed-bottom p-0" 
       type="dark"
       variant="dark"
@@ -59,7 +59,7 @@
           <span class="textSpanIcon">Профиль</span>
         </b-nav-item>
       </b-navbar-nav>
-    </b-navbar > -->
+    </b-navbar > 
     
 
   
