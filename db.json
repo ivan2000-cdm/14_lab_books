@@ -140,61 +140,61 @@
       ],
       "id": 10
     },
-    // {
-    //   "title": "azsdfg",
-    //   "author": "345",
-    //   "release_date": 1582622184896,
-    //   "created": "345",
-    //   "discription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit porro totam, nulla, voluptate placeat neque maxime error amet sint iusto doloribus! Doloribus placeat est aut eum consequuntur, vel praesentium saepe.",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Фантастика",
-    //     "ljg122",
-    //     "Доп_1"
-    //   ],
-    //   "id": 11
-    // },
-    // {
-    //   "title": "Пупкина Залупкина",
-    //   "author": "Пушкин Калатушкин",
-    //   "release_date": 1583138971843,
-    //   "created": "1997",
-    //   "discription": "ирпкапкр",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Классика",
-    //     "Доппнпвавждалт",
-    //     "Доп_1",
-    //     "Доп_3"
-    //   ],
-    //   "id": 12
-    // },
-    // {
-    //   "title": "Герой нашего времени",
-    //   "author": "Лермонтов",
-    //   "release_date": 1583221934719,
-    //   "created": "1873",
-    //   "discription": "Тек",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Классика",
-    //     "Новая категория",
-    //     "Доп_1"
-    //   ],
-    //   "id": 13
-    // },
-    // {
-    //   "title": "123",
-    //   "author": "123",
-    //   "release_date": 1588167408638,
-    //   "created": "12323",
-    //   "discription": "123",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Фантастика"
-    //   ],
-    //   "id": 14
-    // }
+    {
+      "title": "azsdfg",
+      "author": "345",
+      "release_date": 1582622184896,
+      "created": "345",
+      "discription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit porro totam, nulla, voluptate placeat neque maxime error amet sint iusto doloribus! Doloribus placeat est aut eum consequuntur, vel praesentium saepe.",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Фантастика",
+        "ljg122",
+        "Доп_1"
+      ],
+      "id": 11
+    },
+    {
+      "title": "Пупкина Залупкина",
+      "author": "Пушкин Калатушкин",
+      "release_date": 1583138971843,
+      "created": "1997",
+      "discription": "ирпкапкр",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Классика",
+        "Доппнпвавждалт",
+        "Доп_1",
+        "Доп_3"
+      ],
+      "id": 12
+    },
+    {
+      "title": "Герой нашего времени",
+      "author": "Лермонтов",
+      "release_date": 1583221934719,
+      "created": "1873",
+      "discription": "Тек",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Классика",
+        "Новая категория",
+        "Доп_1"
+      ],
+      "id": 13
+    },
+    {
+      "title": "123",
+      "author": "123",
+      "release_date": 1588167408638,
+      "created": "12323",
+      "discription": "123",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Фантастика"
+      ],
+      "id": 14
+    }
   ],
   "book_cat_main": [
     {
