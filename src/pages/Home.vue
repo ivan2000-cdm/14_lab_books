@@ -89,7 +89,7 @@
 			};
 		},
 		components: {
-			// booksIcons: BooksIcons
+			booksIcons: BooksIcons
 		},
 		mounted() {
 			this.$http.get('http://localhost:3000/books')
