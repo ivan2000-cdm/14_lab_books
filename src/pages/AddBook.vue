@@ -246,14 +246,14 @@
 									<div>
 										<b-input-group>
 											<b-form-input v-model.trim="addNewCatName"></b-form-input>
-											/*<b-input-group-append>
+											<b-input-group-append>
 												<b-button 
 													variant="info"
 													@click="addNewCat"
 													:disabled="disabledAddCat"
 												>
 													Добавить
-												</b-button>*/
+												</b-button>
 											</b-input-group-append>
 										</b-input-group>
 									</div>
