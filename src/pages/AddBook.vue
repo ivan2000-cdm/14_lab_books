@@ -217,7 +217,7 @@
 					</span>
 				</div>
 			</div>
-			<div class="form-group row mb-0">
+			<!-- <div class="form-group row mb-0">
 				<label 
 					for="title" 
 					class="col-sm-2 col-form-label"
@@ -268,7 +268,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="form-group row mb-0">
 				<div class="mt-3 col-sm-10">
 					Выбранно всего:
