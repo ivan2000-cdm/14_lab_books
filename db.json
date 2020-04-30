@@ -28,118 +28,118 @@
       ],
       "id": 2
     }
-    // {
-    //   "title": "Книга 3",
-    //   "author": "Автор 3",
-    //   "release_date": "Дата публикации на сайте",
-    //   "created": "Дата написания",
-    //   "discription": "Текст описания",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Новинка",
-    //     "Классика",
-    //     "Фантастика"
-    //   ],
-    //   "id": 3
-    // },
-    // {
-    //   "title": "Книга 4",
-    //   "author": "Автор 4",
-    //   "release_date": "Дата публикации на сайте",
-    //   "created": "Дата написания",
-    //   "discription": "Текст описания",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Новинка",
-    //     "Классика",
-    //     "Фантастика"
-    //   ],
-    //   "id": 4
-    // },
-    // {
-    //   "title": "Книга 5",
-    //   "author": "Автор 5",
-    //   "release_date": "Дата публикации на сайте",
-    //   "created": "Дата написания",
-    //   "discription": "Текст описания",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Новинка",
-    //     "Классика",
-    //     "Фантастика"
-    //   ],
-    //   "id": 5
-    // },
-    // {
-    //   "title": "Книга 6",
-    //   "author": "Автор 6",
-    //   "release_date": "Дата публикации на сайте",
-    //   "created": "Дата написания",
-    //   "discription": "Текст описания",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Новинка",
-    //     "Классика",
-    //     "Фантастика"
-    //   ],
-    //   "id": 6
-    // },
-    // {
-    //   "title": "Книга 7",
-    //   "author": "Автор 7",
-    //   "release_date": "Дата публикации на сайте",
-    //   "created": "Дата написания",
-    //   "discription": "Текст описания",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Новинка",
-    //     "Классика",
-    //     "Фантастика"
-    //   ],
-    //   "id": 7
-    // },
-    // {
-    //   "title": "Книга 8",
-    //   "author": "Автор 8",
-    //   "release_date": "Дата публикации на сайте",
-    //   "created": "Дата написания",
-    //   "discription": "Текст описания",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Новинка",
-    //     "Классика",
-    //     "Фантастика"
-    //   ],
-    //   "id": 8
-    // },
-    // {
-    //   "title": "Книга 9",
-    //   "author": "Автор 9",
-    //   "release_date": "Дата публикации на сайте",
-    //   "created": "Дата написания",
-    //   "discription": "Текст описания",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Новинка",
-    //     "Классика",
-    //     "Фантастика"
-    //   ],
-    //   "id": 9
-    // },
-    // {
-    //   "title": "Книга 10",
-    //   "author": "Автор 10",
-    //   "release_date": "Дата публикации на сайте",
-    //   "created": "Дата написания",
-    //   "discription": "Текст описания",
-    //   "image": "../img/geroy-nashego-vremeni.jpg",
-    //   "categor": [
-    //     "Новинка",
-    //     "Классика",
-    //     "Фантастика"
-    //   ],
-    //   "id": 10
-    // },
+    {
+      "title": "Книга 3",
+      "author": "Автор 3",
+      "release_date": "Дата публикации на сайте",
+      "created": "Дата написания",
+      "discription": "Текст описания",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Новинка",
+        "Классика",
+        "Фантастика"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Книга 4",
+      "author": "Автор 4",
+      "release_date": "Дата публикации на сайте",
+      "created": "Дата написания",
+      "discription": "Текст описания",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Новинка",
+        "Классика",
+        "Фантастика"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Книга 5",
+      "author": "Автор 5",
+      "release_date": "Дата публикации на сайте",
+      "created": "Дата написания",
+      "discription": "Текст описания",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Новинка",
+        "Классика",
+        "Фантастика"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Книга 6",
+      "author": "Автор 6",
+      "release_date": "Дата публикации на сайте",
+      "created": "Дата написания",
+      "discription": "Текст описания",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Новинка",
+        "Классика",
+        "Фантастика"
+      ],
+      "id": 6
+    },
+    {
+      "title": "Книга 7",
+      "author": "Автор 7",
+      "release_date": "Дата публикации на сайте",
+      "created": "Дата написания",
+      "discription": "Текст описания",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Новинка",
+        "Классика",
+        "Фантастика"
+      ],
+      "id": 7
+    },
+    {
+      "title": "Книга 8",
+      "author": "Автор 8",
+      "release_date": "Дата публикации на сайте",
+      "created": "Дата написания",
+      "discription": "Текст описания",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Новинка",
+        "Классика",
+        "Фантастика"
+      ],
+      "id": 8
+    },
+    {
+      "title": "Книга 9",
+      "author": "Автор 9",
+      "release_date": "Дата публикации на сайте",
+      "created": "Дата написания",
+      "discription": "Текст описания",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Новинка",
+        "Классика",
+        "Фантастика"
+      ],
+      "id": 9
+    },
+    {
+      "title": "Книга 10",
+      "author": "Автор 10",
+      "release_date": "Дата публикации на сайте",
+      "created": "Дата написания",
+      "discription": "Текст описания",
+      "image": "../img/geroy-nashego-vremeni.jpg",
+      "categor": [
+        "Новинка",
+        "Классика",
+        "Фантастика"
+      ],
+      "id": 10
+    },
     // {
     //   "title": "azsdfg",
     //   "author": "345",
