@@ -1,6 +1,6 @@
 <template>
 	<body data-spy="scroll" data-target="#navbarCodeply" data-offset="70">
-		<!-- <div class="fixed-top navbar-expand-lg p-0 nav-fill">
+		<div class="fixed-top navbar-expand-lg p-0 nav-fill">
 			<h3 class="h2Tittle m-0">
 				Главная
 				<hr class="m-0">
@@ -14,9 +14,9 @@
 				</nav>
 			</div>
 			</div>
-		</div> -->
+		</div>
 		<div class="main">
-			<!-- <h4 id="newBooks">Новинки</h4>
+			<h4 id="newBooks">Новинки</h4>
 			<div class="row mar">
 				<booksIcons 
 					v-for="book in filterNewBooks"
@@ -35,8 +35,8 @@
 						</div>
 					</div>
 				</router-link>
-			</div> -->
-			<!-- <h4 id="classicBooks">Классика</h4>
+			</div>
+			<h4 id="classicBooks">Классика</h4>
 			<div class="row mar">
 				<booksIcons 
 					v-for="book in filterClassicBooks"
@@ -55,8 +55,8 @@
 						</div>
 					</div>
 				</router-link>
-			</div> -->
-			<!-- <h4 id="fantasyBooks">Фантастика</h4>
+			</div>
+			<h4 id="fantasyBooks">Фантастика</h4>
 			<div class="row mar">
 				<booksIcons 
 					v-for="book in filterFantasyBooks"
@@ -75,13 +75,13 @@
 						</div>
 					</div>
 				</router-link>
-			</div> -->
+			</div>
 		</div>
 	</body>
 </template>
 
 <script>
-	// import BooksIcons from '../components/BooksIcons.vue';
+	import BooksIcons from '../components/BooksIcons.vue';
 	export default {
 		data() {
 			return {
